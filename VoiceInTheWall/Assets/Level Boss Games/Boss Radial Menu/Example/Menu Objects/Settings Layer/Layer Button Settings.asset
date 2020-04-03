@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65d79c06b2a61840821c3a9101b5764, type: 3}
+  m_Name: Layer Button Settings
+  m_EditorClassIdentifier: 
+  m_LayerName: Settings
+  m_LayerEvent: Settings
+  m_OverwriteTimers: 0
+  m_OverwriteReadyUpTime: 1
+  m_OverwriteCleanUpTime: 1
+  m_OverwriteDetailPanel: 0
+  m_ShowLayerName: 0
+  m_ShowDetailText: 0
+  m_ShowSelectedElementSprite: 0
+  m_OverwriteTouchOpertation: 0
+  m_DragAndTouch: 1
+  m_MenuHeader: {fileID: 11400000, guid: 409f89eaca0314740be8d11b4c9288ba, type: 2}
+  m_ElementSnapOverwrite: 0
+  m_ElementSnap: 0
+  m_MenuElements:
+  - {fileID: 11400000, guid: 7d18266212f7bc4408ba60a3e6113eb6, type: 2}
+  - {fileID: 11400000, guid: e908e72100bb54c4296e9312d6168f9f, type: 2}
+  - {fileID: 11400000, guid: 579194310a6e8f64faedc375676ad91d, type: 2}

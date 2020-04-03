@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219c8ce766ea0574fad1589c99ab1b40, type: 3}
+  m_Name: Layer Slider Volume
+  m_EditorClassIdentifier: 
+  m_LayerName: Volume
+  m_LayerEvent: Volume
+  m_OverwriteTimers: 0
+  m_OverwriteReadyUpTime: 1
+  m_OverwriteCleanUpTime: 1
+  m_OverwriteDetailPanel: 0
+  m_ShowLayerName: 0
+  m_ShowDetailText: 0
+  m_ShowSelectedElementSprite: 0
+  m_OverwriteTouchOpertation: 0
+  m_DragAndTouch: 1
+  m_CursorSprite: {fileID: 21300000, guid: 51b01ab87e7ea094b87c2e4dcb2d2354, type: 3}
+  m_CursorSize: 35
+  m_FillImage: {fileID: 21300000, guid: a79f358691858cf40ba5b44787f99fb2, type: 3}
+  m_FillColour: {r: 1, g: 0.6413793, b: 0, a: 1}
+  m_BackgroundImage: {fileID: 21300000, guid: 85351e57bc1f572469656a99c8a99cf4, type: 3}
+  m_BackgroundColour: {r: 0.5037018, g: 0, b: 0.9485294, a: 1}
+  m_LayerMin: 0
+  m_LayerMax: 100
+  m_DisplayedTextDecimalPoint: 0
