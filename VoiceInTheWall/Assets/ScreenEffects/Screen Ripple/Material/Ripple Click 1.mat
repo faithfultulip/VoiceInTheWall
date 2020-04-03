@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ripple Click 1
+  m_Shader: {fileID: 4800000, guid: 0690e5dc6a3db7c4a88442f0842e5f9d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amplitude: 0.8
+    - _Gap: 0.03
+    - _Param1: 7.04
+    - _Param2: 1.889
+    - _Param3: 0.0933
+    - _Progress: 0.7599996
+    - _Spread: 0.3
+    m_Colors:
+    - _Center: {r: 0.7294398, g: 0.1602434, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Ripple1: {r: 0.6912879, g: 0.28873238, b: 3.8899968, a: 0}
+    - _Ripple2: {r: 0.530303, g: 0.26056337, b: 3.769997, a: 0}
+    - _Ripple3: {r: 0.48863637, g: 0.25586855, b: 3.649997, a: 0}

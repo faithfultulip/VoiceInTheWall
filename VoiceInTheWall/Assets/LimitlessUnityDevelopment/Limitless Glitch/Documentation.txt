@@ -1,0 +1,50 @@
+Limitless Glitch Effects v1.0 Manual. 
+
+
+THANK YOU
+
+Thank you for purchasing Limitless Glitch Effects  - you've made my day! 
+
+///
+Limitless Glitch Effects on Unity Asset Store - http://u3d.as/1yuU
+
+Limitless Glitch Effects on Itch.io - https://limitless-development.itch.io/limitless-glitch
+
+Limitless Glitch Effects is a collection of post processing effects imitating glitches, occurring on real circumstances. All glitches are neat and have lots of customization options. All effects also fully configurable within scripts.
+
+========
+
+SRP support
+
+Limitless Glitch Effects fully supports Lightweight Render Pipeline.
+
+HD Render Pipeline support will be as soon as Pipeline itself will be out of preview.
+
+========
+
+Setup NEW Effects fot Post processing stack v2.
+
+To use new effects collection make sure that you installed "Post processing" package from package manager (Window/Package Manager) !
+To setup Post processing stack v2 use this instructions https://docs.unity3d.com/Packages/com.unity.postprocessing@2.1/manual/Quick-start.html
+In post process volume/profile click Add Effect/Limitless Glitch/"needed effect".
+========
+
+**Manipulating effects variables **
+
+https://docs.unity3d.com/Packages/com.unity.postprocessing@2.0/manual/Manipulating-the-Stack.html
+
+========
+
+Always up to date Online API - https://limitless-development.xyz/Limitless-Glitch-Effects-API
+
+========
+[Contact]
+///
+
+If you want to leave a feedback or ask for new feature, use Asset related forum thread.
+If you run into any issues or have questions, please do not hesitate to reach out ! I will do my best to respond as soon as I can.
+
+Contact email: limitlessunitydevelopment@gmail.com
+
+Please keep in mind that I’m in the UTC+5 timezone and usually reserve weekends for personal time.
+///
