@@ -136,7 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d5beed67cc074dc69f6fa54e6715354, type: 3}
   m_Name: LimitlessGlitch4
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 880e3f3450f9047edbd6c9dce7449f0e, type: 3}
   m_Name: LimitlessGlitch8
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
