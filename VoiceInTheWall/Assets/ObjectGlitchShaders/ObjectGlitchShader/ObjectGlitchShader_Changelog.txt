@@ -1,0 +1,12 @@
+1.2
+- Editor utility changes.
+- Band Glitch progress is now controllable outside the shader graph, via exposed value or scripting.
+- Added an example script to make the band glitch loop for desired amount.
+
+1.1
+- Added support for Unity versions above 2019.2.x
+- Added support for Lightweight Render Pipeline
+- Checked and confirmed mobile support.
+
+1.0
+- Initial version.
